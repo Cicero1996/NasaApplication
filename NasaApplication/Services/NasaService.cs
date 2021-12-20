@@ -10,11 +10,19 @@ namespace NasaApplication.Services
     {
 
 
-        public async Task<ResponseNasa> getApod()
+        private ApodClient ConnectAPI()
         {
             string key = "pvzWKVp0Tnwp5Y06eLHeLESjB04PxvYEBZKxGcL4";
-          
-            var client= new ApodClient(key);
+
+            return new ApodClient(key);
+
+
+        }
+
+
+        public async Task<ResponseNasa> getApod()
+        {
+            ApodClient client = this.ConnectAPI();
             ResponseNasa responseNasa;
             Console.WriteLine("ciaooooo");
 
