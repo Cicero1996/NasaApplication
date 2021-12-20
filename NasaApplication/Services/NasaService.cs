@@ -13,10 +13,7 @@ namespace NasaApplication.Services
         private ApodClient ConnectAPI()
         {
             string key = "pvzWKVp0Tnwp5Y06eLHeLESjB04PxvYEBZKxGcL4";
-
             return new ApodClient(key);
-
-
         }
 
 
