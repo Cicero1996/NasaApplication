@@ -40,3 +40,5 @@
 /Users/andreacicero/Documents/GitProjects/NasaApplication/NasaApplication/obj/Debug/net5.0/ref/NasaApplication.dll
 /Users/andreacicero/Documents/GitProjects/NasaApplication/NasaApplication/obj/Debug/net5.0/NasaApplication.pdb
 /Users/andreacicero/Documents/GitProjects/NasaApplication/NasaApplication/obj/Debug/net5.0/NasaApplication.genruntimeconfig.cache
+/Users/andreacicero/Documents/GitProjects/NasaApplication/NasaApplication/bin/Debug/net5.0/Apod.dll
+/Users/andreacicero/Documents/GitProjects/NasaApplication/NasaApplication/obj/Debug/net5.0/NasaApplication.csproj.CopyComplete

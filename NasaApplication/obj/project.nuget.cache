@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Q3rOBCNxeV8wUzRuQqEy1gMk5uK9wN5m3jKTPCghEDHxOMi2SxKLlbYRf+gtfgHs3uBhExUDNAoCmDOXXvclaQ==",
+  "dgSpecHash": "2Gwm5mA2gbzqOVt0LcDp/Chbzzi/sIf3rLtKkzU00MRxXVWSUEbhiltItWV70znO5Ymuj45pL20lgGcJx+8dGw==",
   "success": true,
   "projectFilePath": "/Users/andreacicero/Documents/GitProjects/NasaApplication/NasaApplication/NasaApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/andreacicero/.nuget/packages/apod.net/1.0.1/apod.net.1.0.1.nupkg.sha512",
+    "/Users/andreacicero/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
