@@ -1,11 +1,21 @@
 ﻿<Properties StartupConfiguration="{15667BB7-69A8-49D0-811C-022B9B97D23E}|Default">
   <MonoDevelop.Ide.ItemProperties.NasaApplication PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NasaApplication/Controllers/NasaController.cs">
+    <Files>
+      <File FileName="NasaApplication/WeatherForecast.cs" Line="9" Column="27" />
+      <File FileName="NasaApplication/Program.cs" Line="1" Column="1" />
+      <File FileName="NasaApplication/Startup.cs" Line="1" Column="1" />
+      <File FileName="NasaApplication/Controllers/NasaController.cs" Line="13" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NasaApplication" expanded="True">
-            <Node name="NasaApplication" expanded="True" />
+            <Node name="NasaApplication" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="NasaController.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
