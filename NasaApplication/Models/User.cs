@@ -32,5 +32,17 @@ namespace NasaApplication.Models
             get => name;
             set => name = value;
         }
+
+
+        public bool VerifiedUser(User u)
+        {
+            if (this.mail == mail && this.passwordSHA == passwordSHA)
+                return true;
+            else
+                return false;
+
+        }
+
+
     }
 }
