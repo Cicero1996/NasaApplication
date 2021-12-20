@@ -34,14 +34,7 @@ namespace NasaApplication.Models
         }
 
 
-        public bool VerifiedUser(string mail, string password)
-        {
-            if (this.Mail == mail && this.passwordSHA == password)
-                return true;
-            else
-                return false;
-
-        }
+        
 
 
     }
