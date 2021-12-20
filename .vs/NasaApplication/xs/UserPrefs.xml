@@ -1,28 +1,22 @@
 ﻿<Properties StartupConfiguration="{15667BB7-69A8-49D0-811C-022B9B97D23E}|Default">
   <MonoDevelop.Ide.ItemProperties.NasaApplication PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NasaApplication/Models/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NasaApplication/Controllers/NasaController.cs">
     <Files>
-      <File FileName="NasaApplication/Controllers/NasaController.cs" Line="35" Column="5" />
-      <File FileName="NasaApplication/Services/NasaService.cs" Line="22" Column="49" />
-      <File FileName="NasaApplication/Models/ResponseNasa.cs" />
-      <File FileName="NasaApplication/Properties/launchSettings.json" />
-      <File FileName="NasaApplication/Startup.cs" />
-      <File FileName="NasaApplication/Program.cs" />
-      <File FileName="NasaApplication/appsettings.json" />
-      <File FileName="NasaApplication/www/index.html" Line="111" Column="1" />
-      <File FileName="NasaApplication/www/HomeUser.html" Line="1" Column="1" />
-      <File FileName="NasaApplication/Controllers/UserController.cs" Line="16" Column="1" />
-      <File FileName="NasaApplication/Models/User.cs" Line="8" Column="9" />
+      <File FileName="NasaApplication/Controllers/UserController.cs" Line="16" Column="42" />
+      <File FileName="NasaApplication/Controllers/NasaController.cs" Line="38" Column="46" />
+      <File FileName="NasaApplication/Services/UserService.cs" Line="27" Column="1" />
+      <File FileName="NasaApplication/Models/User.cs" Line="31" Column="10" />
+      <File FileName="NasaApplication/www/index.html" Line="17" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NasaApplication" expanded="True">
             <Node name="NasaApplication" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="User.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="NasaController.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
               <Node name="www" expanded="True" />
             </Node>
