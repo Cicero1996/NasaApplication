@@ -5,13 +5,13 @@ namespace NasaApplication.Models
     {
 
         private string mail;
-        private string passwordSHA;
+        private string password;
         private string name;
 
-        public User(string mail, string passwordSHA)
+        public User(string mail, string password)
         {
             this.mail = mail;
-            this.passwordSHA = passwordSHA;
+            this.password = password;
         }
 
 
@@ -23,8 +23,8 @@ namespace NasaApplication.Models
 
         public string PasswordSha
         {
-            get => passwordSHA;
-            set => passwordSHA = value;
+            get => password;
+            set => password = value;
         }
 
         public string Name
@@ -32,10 +32,6 @@ namespace NasaApplication.Models
             get => name;
             set => name = value;
         }
-
-
-        
-
 
     }
 }
